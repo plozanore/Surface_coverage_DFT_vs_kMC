@@ -1,1 +1,1 @@
-# Surface_coverage_DFT_vs_kMC
+# This repository contains the VASP outputs and Zacros inputs used in the research work entitled "When coverage is key: The lowest (free) energy reaction pathway does not always properly predict the evolution of heterogeneously catalyzed reactions".
